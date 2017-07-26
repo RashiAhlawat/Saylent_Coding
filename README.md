@@ -6,12 +6,20 @@ Be sure to have the latest node/npm version installed in your terminal.
 
 How to Run Post Author App
 
-Clone or Download the Zip file
-Extract Zip file
-Rename to "UserPostApp"
-Go to project's root directory which is UserPostApp in command line.
-Then type "npm install" - node_modules folder should be created after this.
-Then type "npm start" to start the server.
-Go to your browser and access "http://localhost:8080/userPostData".
-It should display the htlm with get data button , hit the button.
-All the Post Auhtors data is displayed.
+1.Clone or Download the Zip file
+
+2.Extract Zip file
+
+3.Rename to "UserPostApp"
+
+4.Go to project's root directory which is UserPostApp in command line.
+
+5.Then type "npm install" - node_modules folder should be created after this.
+
+6.Then type "npm start" to start the server.
+
+7.Go to your browser and access "http://localhost:8080/userPostData".
+
+8.It should display the htlm with get data button , hit the button.
+
+9.All the Post Auhtors data is displayed.
