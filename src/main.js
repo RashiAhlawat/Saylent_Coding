@@ -15,7 +15,7 @@ button.onclick = function (){
             users = obj.users;
             posts = obj.posts;
              
-
+          // Adding data dynamically to the table
            var outputTbl = document.getElementById('UserTable');
 
            var tableContent = "";
