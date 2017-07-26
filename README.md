@@ -1,6 +1,6 @@
 # Posts by Author
 
-This project was generated with Node js version 8 and uses javascript.
+This project was generated with Node js version 8.2.1 and uses javascript.
 
 Be sure to have the latest node/npm version installed in your terminal.
 
@@ -14,7 +14,7 @@ How to Run Post Author App
 
 4.Go to project's root directory which is UserPostApp in command line.
 
-5.Then type "npm install" - node_modules folder should be created after this.
+5.Then type "npm install"  , node_modules folder should be created after this.
 
 6.Then type "npm start" to start the server.
 
