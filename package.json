@@ -1,0 +1,14 @@
+{
+  "name": "User-Post-App",
+  "version": "0.1.0",
+  "description": "Post Author Data app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rashi Ahlawat",
+  "dependencies": {
+    "express": "^4.14.0",
+    "morgan": "^1.7.0"
+  }
+}
