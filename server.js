@@ -35,7 +35,7 @@ urls.forEach(function(url) {
         // To check whether all requests are completed
         response.posts =posts;
         response.users = users;
-        console.log(completed_requests);
+  //      console.log(completed_requests);
       }      
     });
   });
